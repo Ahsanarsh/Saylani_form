@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.idbtn {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: 0 auto;
+}
+.idbtn input {
+  border-radius: 5px;
+  padding: 20px 0 20px 5px;
+  border: 2px solid #b6d369;
+  margin-bottom: 10px;
+  color: gray;
+}
+.idbtn button {
+  border-radius: 5px;
+  padding: 15px 0 15px 5px;
+  background-color: #0d6db7;
+}
